@@ -7,7 +7,7 @@ This site emulates real life work flow. They give you images, text, colors and t
 
 This was alot of fun and I am happy to be able to be able to work on my skills.
 
-You can check out what the website looks like here -> https://rez-fish.github.io/easybank/
+You can check out what the website looks like here -> https://easybank-4cf54.web.app/
 ________
 
 What I Used 
