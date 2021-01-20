@@ -426,7 +426,7 @@ button:hover::before,
 
 .hero__image {
   position: relative;
-  background-image: url("/images/bg-intro-mobile.svg");
+  background-image: url("./images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -681,7 +681,8 @@ button:hover::before,
         grid-template-columns: 2fr 1fr 1fr 3fr;
     -ms-grid-rows: 1fr auto;
         grid-template-rows: 1fr auto;
-        grid-template-areas: 'logo links1 links2 cta' 'social links1 links2 copyright';
+        grid-template-areas: 'logo links1 links2 cta'
+ 'social links1 links2 copyright';
     gap: 1rem;
     justify-items: start;
   }
