@@ -16,7 +16,9 @@ ________
 I made different SCSS files for each portion of the web page.
 I used the BEM architeecture for easy orginization. 
 The page was made in basic HTML/SCSS/JS.
+
 I developed the project with a Mobile First Design.
+
 This website is responsive.
 
 Thank you for checking out my work.
